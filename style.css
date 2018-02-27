@@ -1,0 +1,44 @@
+body {background-color: #6BA3FF;
+      font-size: 30px;
+      transition: 1s;}
+.main {background-color: #FFFFFF;
+       border-radius: 5px;
+       width: 500px;
+       height: auto;
+       left: 0;
+       right: 0;
+       margin: 10% auto auto auto;
+       padding: 15px 15px 10px 15px;
+       transition: 1s;}
+.tagline {text-align: center;
+          margin-top: 5px;
+          font-size: 14px;
+          color: #FFFFFF;}
+.social {width: 50px;
+         height: 50px}
+.icon {font-size: 35px;
+       color: #6BA3FF;
+       transition: 1s;}
+.social:hover {opacity: .7;
+               cursor: pointer;}
+#quote-mark: {color: #000000;}
+#shayne {color: #FFFFFF;}
+#shayne:hover {text-decoration: none;
+         color: #F7F7F7;}
+#quote-container {height: auto;
+                  padding: 0px 5px 0px 5px;
+                  margin-bottom: 0px;}
+#twitter {float: left;}
+#generate {float: right;}
+#author {text-align: center;
+         font-size: 25px;
+         font-style: italic;}
+#quote {transition: 2s;}
+.debug {border-style: solid;
+        border-color: black;
+        border-width: 1px;}
+a {color: inherit;}
+a:hover {color: inherit;}
+a:active {color: inherit;}
+a:visited {color: inherit;}
+#buttonsRow {text-align: center;}
